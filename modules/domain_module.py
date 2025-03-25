@@ -9,8 +9,8 @@ from ipwhois import IPWhois
 from tqdm import tqdm
 
 # Configurable API keys (Replace with your valid keys)
-IPINFO_TOKEN = "019df4c4b07109"
-VIRUSTOTAL_API_KEY = "aa75ac3bd1d0e2c6921afcb8fa69b21e8b981b731be1d9ef6f98ab1821df1085"
+IPINFO_TOKEN = ""
+VIRUSTOTAL_API_KEY = ""
 
 class DomainModule:
 
