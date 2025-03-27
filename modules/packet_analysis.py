@@ -7,7 +7,7 @@ import socket
 from tqdm import tqdm
 import requests
 
-IPINFO_TOKEN = ""
+IPINFO_TOKEN = "019df4c4b07109"
 class PacketAnalysisModule:
     def __init__(self, domain, output_dir="analysis_output"):
         self.domain = domain
