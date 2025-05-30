@@ -78,7 +78,7 @@ HostReveal is a cybersecurity investigation and threat intelligence tool designe
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/HostReveal.git
+git clone https://github.com/garbhitsh/HostReveal.git
 cd HostReveal
 python -m venv .venv
 source .venv/bin/activate
@@ -117,10 +117,7 @@ Optional:
 * More threat intelligence source integrations
 * Webhooks/Slack alerts for critical findings
 
-## License
 
-MIT License
-2024 - HostReveal Team
 
 
 
