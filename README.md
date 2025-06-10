@@ -7,6 +7,8 @@ HostReveal is a cybersecurity investigation and threat intelligence tool designe
 * Go beyond traditional DNS lookups
 * Perform deep SSL inspection, packet analysis, and network mapping
 * Integrate machine learning to detect anomalies and threats
+
+
 ![Alt text](https://github.com/GarbhitSh/HostReveal/blob/main/f.png)
 
 ## Key Features
